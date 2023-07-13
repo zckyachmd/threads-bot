@@ -1,0 +1,27 @@
+{
+  "name": "threads-bot",
+  "version": "1.0.0",
+  "description": "BOT Auto Post & Reply on threads.net",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "bot",
+    "threads",
+    "post",
+    "reply",
+    "auto-reply",
+    "auto-post",
+    "bot-threads",
+    "auto-post-threads",
+    "auto-reply-threads"
+  ],
+  "author": "Zacky Achmad",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "threads-api": "^1.2.0"
+  }
+}

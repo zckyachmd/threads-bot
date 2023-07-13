@@ -1,0 +1,13 @@
+# Files created by Node.js
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+
+# IDE / Editor specific files
+.vscode/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
