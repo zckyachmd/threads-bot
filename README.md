@@ -28,7 +28,7 @@ Sebelum menjalankan bot ini, pastikan komputer Anda telah memenuhi prasyarat ber
 2. **Masuk ke direktori repositori**
 
    ```bash
-   cd repo_bot_threads
+   cd threads-bot
    ```
 3. **Install dependensi**
 
@@ -40,7 +40,7 @@ Sebelum menjalankan bot ini, pastikan komputer Anda telah memenuhi prasyarat ber
    ```bash
    cp .env.example .env
    ```
-    Kemudian, buka file .env dan sesuaikan nilai-nilai variabel lingkungan sesuai dengan kebutuhan Anda. Pastikan untuk mengisi USERNAME dan PASSWORD dengan akun threads.net Anda (saat ini masih terhubung dengan instagram).
+    Kemudian, buka file .env dan sesuaikan nilai-nilai variabel lingkungan sesuai dengan kebutuhan Anda. Pastikan untuk mengisi USERNAME dan PASSWORD dengan akun threads.net Anda (saat ini masih terhubung dengan Instagram).
 
 5. **Jalankan bot**
 
